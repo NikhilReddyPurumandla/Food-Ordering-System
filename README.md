@@ -35,7 +35,7 @@ click here https://www.mysql.com/downloads/ and download latest version of mysql
 
 
 ## Project Flow
- 1.The execution stats from menu.jsp page , where  food menu will be displayed . Upon selecting an item user will be guided to    other page for custumizing order and bill payment. 
+ 1.The execution stats from menu.jsp page , where  food menu will be displayed . Upon selecting an item user will be guided to order.jsp page for custumizing order and bill payment. 
  
  2.User can add any number of items to cart and after ordering, user can proceed to payment.
  
