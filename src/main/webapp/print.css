@@ -1,0 +1,28 @@
+@media print /*--This is for Print--*/
+{
+    .btn
+    {
+        display: none;
+    }
+    .tble
+    {
+        background-color: #CD853F;
+        border:1px solid green;
+        -webkit-print-color-adjust: exact
+/*above line of codes will set the table background-color and change the border color when we give the print and preview (print preview only when we see on print preview via browser) command*/
+
+    }
+}
+@media screen /*--This is for Print Preview Screen--*/
+{
+    .btn
+    {
+        display: none;
+    }
+
+    .tble
+    {
+        background-color: #CD853F;
+        border:1px solid green;
+    }
+  }

@@ -1,0 +1,13 @@
+@media screen /*--This is for Screen--*/
+{
+    .btn
+    {
+        background-color: #AFAFAF;
+        display: block;
+    }
+    .tble
+    {
+        background-color: #E5E5E5;
+        border: 1px solid #CD853F;
+    }
+}
