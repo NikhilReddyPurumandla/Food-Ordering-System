@@ -1,4 +1,4 @@
-# SubWay-Ordering-and-Billing-System
+# Food Ordering System
 A spring MVC web application for online food ordering and billing, developed wif proper session management and bill printing mechanism.
 
 ## Prerequisites
