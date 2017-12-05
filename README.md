@@ -6,7 +6,9 @@ EclipseIDE for j2EE with spring IDE installed, MYSQL, JDK 8.
 
 ## Execution Flow
  1.The execution stats from menu.jsp page , where  food menu will be displayed . Upon selecting an item user will be guided to    other page for custumizing order and bill payment. 
+ 
  2.User can add any number of items to cart.
+ 
  3.Bill printing facility is provided.
  
  ## License
